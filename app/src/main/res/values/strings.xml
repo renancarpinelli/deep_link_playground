@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeeplinkPlayground</string>
+    <string name="enter_promo_code">Enter your <b>UBER</b> promo code</string>
+    <string name="confirm_uber">Uber</string>
+    <string name="confirm_google">Google Play</string>
+    <string name="uber_promo_code_uri">uber://?action=applyPromo&amp;client_id=%1$s&amp;promo=%2$s"</string>
+    <string name="uber_promo_code_uri_universal">https://m.uber.com/ul/?action=applyPromo&amp;client_id=%1$s&amp;promo=%2$s"</string>
+    <string name="googleplay_promo_code_uri">https://play.google.com/redeem?code=%1$s</string>
+</resources>
